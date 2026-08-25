@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "Akumako_poi_manil",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "Mamaantismp.aternos.me,
+    "port": 39827,
+    "version": "26.2"
   },
   "position": {
     "enabled": true,
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Mero Lado Kha muji Manil ",
+        "Sathi Bersene muji Valu manil",
+        "Aakuuunko poi muji manil"
       ]
     },
     "chat-log": true,
